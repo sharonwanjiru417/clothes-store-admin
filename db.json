@@ -1,0 +1,52 @@
+{
+  "store_info": [
+    {
+      "id": 1,
+      "name": "Threads & Co",
+      "description": "Your go-to store for trendy and affordable clothing",
+      "phone_number": "+254701176762"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Classic White T-Shirt",
+      "description": "A clean, comfortable everyday white tee",
+      "category": "Tops",
+      "price": 800,
+      "image": "https://via.placeholder.com/200"
+    },
+    {
+      "id": 2,
+      "name": "Slim Fit Jeans",
+      "description": "Modern slim fit denim jeans",
+      "category": "Bottoms",
+      "price": 1500,
+      "image": "https://via.placeholder.com/200"
+    },
+    {
+      "id": 3,
+      "name": "Floral Summer Dress",
+      "description": "Light and breezy floral print dress",
+      "category": "Dresses",
+      "price": 3000,
+      "image": "https://via.placeholder.com/200"
+    },
+    {
+      "id": 4,
+      "name": "Leather Jacket",
+      "description": "Classic black leather jacket",
+      "category": "Outerwear",
+      "price": 4000,
+      "image": "https://via.placeholder.com/200"
+    },
+    {
+      "id": 5,
+      "name": "Striped Hoodie",
+      "description": "Cozy striped hoodie for cold days",
+      "category": "Tops",
+      "price": 4500,
+      "image": "https://via.placeholder.com/200"
+    }
+  ]
+}
